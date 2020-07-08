@@ -1,2 +1,2 @@
 # mySymfonyFproject
-symfony first project 3wa formation
+symfony first project
